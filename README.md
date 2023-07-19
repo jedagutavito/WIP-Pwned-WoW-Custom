@@ -2,6 +2,7 @@
 ![Argent_banner_1_short_points_color_line](https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/44fab9db-5b02-4b04-9f52-70f2c411717c)
 
 Custom Server Instant 80 3.3.5a
+
 | Hard Edit |
 Español - English All branches of talents!
 As a permanent promotion, full gear T4 will be awarded to everyone! the NPC is located in the mall and it is free for them to buy their equipment there. Free LvL 5 custom gems were also put in for you to enjoy the content better!
