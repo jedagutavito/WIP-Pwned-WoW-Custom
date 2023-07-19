@@ -1,4 +1,4 @@
-                                                                ![logo](https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/c9bd74ee-4343-4250-8731-b5b5afec8fb6) WTS - Pwned-WoW-Custom
+-------------------------------------------------------------![logo](https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/c9bd74ee-4343-4250-8731-b5b5afec8fb6) WTS - Pwned-WoW-Custom
 ![Argent_banner_1_short_points_color_line](https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/44fab9db-5b02-4b04-9f52-70f2c411717c)
 Custom Server Instant 80 3.3.5a
 | Hard Edit |
