@@ -5,7 +5,9 @@ Custom Server Instant 80 3.3.5a
 
 | Hard Edit |
 Español - English All branches of talents!
+
 As a permanent promotion, full gear T4 will be awarded to everyone! the NPC is located in the mall and it is free for them to buy their equipment there. Free LvL 5 custom gems were also put in for you to enjoy the content better!
+
 scripts
 NPCs 1v1
 NPC Enchants
