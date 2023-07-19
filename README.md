@@ -9,30 +9,53 @@ Español - English All branches of talents!
 As a permanent promotion, full gear T4 will be awarded to everyone! the NPC is located in the mall and it is free for them to buy their equipment there. Free LvL 5 custom gems were also put in for you to enjoy the content better!
 
 scripts
+
 NPCs 1v1
+
 NPC Enchants
+
 NPC Professions
+
 NPC Titles
+
 NPC TopKill
+
 NPC Arena
+
 NPC Trader
+
 NPC Trainer
+
 NPC reset
+
 NPC Buffer
+
 Crossfaction B.G
+
 Global channel .chat
+
 System Anti-Spam
+
 System Anti-Cheat
+
 Content Armor Cata/Mop/Legion
+
 Weapons Legion Artifact
+
 [Mount legendary]
+
 World Boses [World]
+
 Equipments & Items Specials
+
 Farming zone I (Dual Wild) Zone
-Farming zone II (Gold) Key to Uldaman (Farming II)
+
 Donor Gear [Unique]
+
 Ultra Gods Bags
+
 Transmogs Items [Cata/Mop/Legion] Optional
+
 VIP System
 
 Includes database, scripts, dbc & patches
