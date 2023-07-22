@@ -75,8 +75,10 @@ Includes database, scripts, dbc & patches
 
 For more information about their prices, you can find me on discord as: mr_patience
 
-[Video 1](https://www.youtube.com/watch?v=nTROGSZZWV8)
-[Video 2](https://www.youtube.com/watch?v=SGkffpKa-wo)
+## Screenshots and Videos
+
+- [Video 1 TRAILER PWNED](https://www.youtube.com/watch?v=nTROGSZZWV8)
+- [Video 2 GAMEPLAY BG PVP](https://www.youtube.com/watch?v=SGkffpKa-wo)
 
 <p align="center">
   <img src="https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/46ca8cd8-e16e-4f85-96c0-2f5767b98652">
