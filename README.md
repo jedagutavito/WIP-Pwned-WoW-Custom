@@ -14,43 +14,45 @@ Español - English All branches of talents!
 
 As a permanent promotion, full gear T4 will be awarded to everyone! the NPC is located in the mall and it is free for them to buy their equipment there. Free LvL 5 custom gems were also put in for you to enjoy the content better!
 
+Includes database, scripts, dbc & patches
+
 ### Scripts (100% work)
-- Enchanged (file) 15 scripts lua
-- Guildhouse (file) 2 scripts lua
-- Morph comanndo Event chamber (file) 39 scripts lua
-- MSG (file) 14 scripts lua
-- NPC & command Buff (file) 18 scripts lua
-- NPC enchants - Professions (file) 4 scripts lua
-- Prohibir zones (file) 14 scripts lua
-- World Bosses (file) 5 scripts lua
-- abaddon.lua
-- Angel.lua
-- anti-ads.lua
-- BG rewards.lua
-- Command_Mall.lua
-- Contend.lua
-- ffa_zones.lua
-- GuidHouse_Huu.lua
-- Isle_Dragon.lua
-- Login_Announce.lua
-- Login_Huu.lua
-- pd.lua
-- reload.lua
-- trainer_master_lua_engine_3.3.5.lua
-- Transmogrifier.lua
-- VIP_Level_Item.lua
-- Zona PvP.lua
-- NPCs 1v1
-- NPC Enchants
-- NPC Professions
-- NPC Titles
-- NPC TopKill
-- NPC Arena
-- NPC Trader
-- NPC Trainer
-- NPC reset
-- NPC Buffer
--   
+- Enchanged (file) 15 scripts lua ✅
+- Guildhouse (file) 2 scripts lua ✅
+- Morph comanndo Event chamber (file) 39 scripts lua ✅
+- MSG (file) 14 scripts lua ✅
+- NPC & command Buff (file) 18 scripts lua ✅
+- NPC enchants - Professions (file) 4 scripts lua ✅
+- Prohibir zones (file) 14 scripts lua ✅
+- World Bosses (file) 5 scripts lua ✅ 
+- abaddon.lua ✅
+- Angel.lua ✅
+- anti-ads.lua ✅
+- BG rewards.lua ✅
+- Command_Mall.lua ✅
+- Contend.lua ✅
+- ffa_zones.lua ✅
+- GuidHouse_Huu.lua ✅
+- Isle_Dragon.lua ✅
+- Login_Announce.lua ✅
+- Login_Huu.lua ✅
+- pd.lua ✅
+- reload.lua ✅
+- trainer_master_lua_engine_3.3.5.lua ✅
+- Transmogrifier.lua ✅
+- VIP_Level_Item.lua ✅
+- Zona PvP.lua ✅
+- NPCs 1v1 ✅
+- NPC Enchants ✅
+- NPC Professions✅
+- NPC Titles ✅
+- NPC TopKill ✅
+- NPC Arena ✅
+- NPC Trader ✅
+- NPC Trainer ✅
+- NPC reset ✅
+- NPC Buffer ✅
+  
 ### Features
 
 - Crossfaction B.G
