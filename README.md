@@ -73,7 +73,8 @@ As a permanent promotion, full gear T4 will be awarded to everyone! the NPC is l
 
 Includes database, scripts, dbc & patches
 
-For more information about their prices, you can find me on discord as: mr_patience
+For more information and pricing, you can find me on **Discord as: mr_patience**
+[![Discord](https://img.shields.io/badge/Discord-mr__patience%236969-%237289DA?logo=discord&logoColor=white)](https://discord.com/users/mr_patience)
 
 ## Screenshots and Videos
 
