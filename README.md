@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/c9bd74ee-4343-4250-8731-b5b5afec8fb6">
+  <img src="https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/c9bd74ee-4343-4250-8731-b5b5afec8fb6" width="200" alt="Pwned-WoW-Custom Logo">
 </p>
 
-# WTS - Pwned-WoW-Custom
+<h1 align="center">WTS - Pwned-WoW-Custom</h1>
 
-<p align="center">
-  <img src="https://github.com/jedagutavito/WIP-Pwned-WoW-Custom/assets/73094194/44fab9db-5b02-4b04-9f52-70f2c411717c">
-</p>
+![Argent_banner_1_short_points_color_line](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/90a0318f-51d1-47e4-b477-e73aace70858)
 
-## Custom Server Instant 80 3.3.5a
+<p align="center"> Custom Server Instant 80 3.3.5a
 
 ### Hard Edit
 
