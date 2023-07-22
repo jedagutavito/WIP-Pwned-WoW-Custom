@@ -55,20 +55,20 @@ Includes database, scripts, dbc & patches
   
 ### Features
 
-- Crossfaction B.G
-- Global channel .chat
-- System Anti-Spam
-- System Anti-Cheat
-- Content Armor Cata/Mop/Legion
-- Weapons Legion Artifact
-- [Mount legendary]
-- World Boses [World]
-- Equipments & Items Specials
-- Farming zone I (Dual Wild) Zone
-- Donor Gear [Unique]
-- Ultra Gods Bags
-- Transmogs Items [Cata/Mop/Legion] Optional
-- VIP System
+- Crossfaction B.G ✅
+- Global channel .chat ✅
+- System Anti-Spam ✅
+- System Anti-Cheat ✅
+- Content Armor Cata/Mop/Legion ✅
+- Weapons Legion Artifact ✅
+- [Mount legendary] ✅
+- World Boses [World] ✅
+- Equipments & Items Specials ✅
+- Farming zone I (Dual Wild) Zone ✅
+- Donor Gear [Unique] ✅
+- Ultra Gods Bags ✅
+- Transmogs Items [Cata/Mop/Legion] Optional ✅
+- VIP System ✅
 
 Includes database, scripts, dbc & patches
 
